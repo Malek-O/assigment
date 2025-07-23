@@ -3,6 +3,8 @@
 
 # 🛡️ User Management API Documentation
 
+## Sketch
+https://excalidraw.com/#json=keaNNvfOfWkFsfEdMJHdh,9eO7jl_WrcQXk2nl4GLFhg
   
 
 ## 🧠 Overview
